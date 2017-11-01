@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fruity Facts</string>
+    <string name="title_label">Welcome!</string>
+    <string name="enter">Enter</string>
+    <string name="apple">Apple</string>
+    <string name="avacado">Avacado</string>
+    <string name="bannana">Bannana</string>
+    <string name="blackberry">Blackberry</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="cherry">Cherry</string>
+    <string name="coconut">Coconut</string>
+    <string name="cranberry">Cranberry</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="nextPage">Next Page</string>
+</resources>
